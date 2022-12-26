@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+
+section {
+  width: 50vw;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
